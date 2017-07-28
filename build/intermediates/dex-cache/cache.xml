@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/tktbtk/AndroidStudioProjects/GPStest/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="daf75409076515d8cca6dbe3489cfee505463a4b">
+        <dex dex="/Users/tktbtk/AndroidStudioProjects/GPStest/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_131cd8b18ea225a33a085d40c6ae21f41e7c7694/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tktbtk/.android/build-cache/47258d9cf412390d9baf69a5dd6b54904150bb1a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/tktbtk/AndroidStudioProjects/GPStest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6a7d8d915bc80c2b413b4be9c155b1ab34ae6f6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tktbtk/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/tktbtk/AndroidStudioProjects/GPStest/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_a05909ebaaeb26306d208618384e65bac4da78ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tktbtk/AndroidStudioProjects/GPStest/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/tktbtk/AndroidStudioProjects/GPStest/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e0da96f5fcb369c2cba4b33150ba67d0230f42b2/classes.dex" />
+    </item>
+
+</items>
